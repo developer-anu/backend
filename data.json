@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Anu Nagra",
+      "photo": "https://images.unsplash.com/photo-1620428268482-cf1851a36764?q=80&w=2009&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "username": "anunagra84",
+      "password": "password",
+      "email": "anunagra84@gmail.com",
+      "friends": [
+        {
+          "name": "Manu Nagra",
+          "photo": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "email": "manu@gmail.com",
+          "posts": [
+            {
+              "author": "Manu Nagra",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Had a great day!"
+            },
+            {
+              "author": "Manu Nagra",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Loving Angular 19!"
+            }
+          ]
+        },
+        {
+          "name": "Kamaljeet Singh",
+          "photo": "https://images.unsplash.com/photo-1597204081767-4c14a6b7cbec?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "email": "kamaljeet@gmail.com",
+          "posts": [
+            {
+              "author": "Kamaljeet Singh",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Had a great day!"
+            },
+            {
+              "author": "Kamaljeet Singh",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Loving Angular 19!"
+            }
+          ]
+        },
+        {
+          "name": "Neha Chauhan",
+          "photo": "https://plus.unsplash.com/premium_photo-1681488159219-e0f0f2542424?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "email": "Neha@gmail.com",
+          "posts": [
+            {
+              "author": "Neha Chauhan",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Had a great day!"
+            },
+            {
+              "author": "Neha Chauhan",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Loving Angular 19!"
+            }
+          ]
+        },
+        {
+          "name": "Yogesh Nagra",
+          "photo": "https://images.unsplash.com/photo-1606663889134-b1dedb5ed8b7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "email": "Yogesh@gmail.com",
+          "posts": [
+            {
+              "author": "Yogesh Nagra",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Had a great day!"
+            },
+            {
+              "author": "Yogesh Nagra",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Loving Angular 19!"
+            }
+          ]
+        },
+        {
+          "name": "Hriday Nagra",
+          "photo": "https://images.unsplash.com/photo-1572186192734-e82b57dc4435?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "email": "Hriday@gmail.com",
+          "posts": [
+            {
+              "author": "Hriday Nagra",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Had a great day!"
+            },
+            {
+              "author": "Hriday Nagra",
+              "authorPhoto": "https://via.placeholder.com/40",
+              "content": "Loving Angular 19!"
+            }
+          ]
+        }
+      ],
+      "posts": [
+        {
+          "id": "3-1",
+          "author": "Manu Nagra",
+          "authorPhoto": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "content": "Had a great day!",
+          "hidden": false
+        },
+        {
+          "id": "4-1",
+          "author": "Kamaljeet Singh",
+          "authorPhoto": "https://images.unsplash.com/photo-1597204081767-4c14a6b7cbec?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "content": "I am loving the weather outside!",
+          "hidden": false
+        },
+        {
+          "id": 1740504465839,
+          "author": "Anu Nagra",
+          "authorPhoto": "https://images.unsplash.com/photo-1620428268482-cf1851a36764?q=80&w=2009&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "content": "Lets try it again ",
+          "hidden": false
+        },
+        {
+          "id": 1740504547314,
+          "author": "Anu Nagra",
+          "authorPhoto": "https://images.unsplash.com/photo-1620428268482-cf1851a36764?q=80&w=2009&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "content": "One test post",
+          "hidden": false
+        },
+        {
+          "id": 1740504636662,
+          "author": "Anu Nagra",
+          "authorPhoto": "https://images.unsplash.com/photo-1620428268482-cf1851a36764?q=80&w=2009&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "content": "I want to check again",
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Admin",
+      "photo": "https://via.placeholder.com/50",
+      "username": "admin",
+      "password": "password",
+      "email": "admin@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Manu Nagra",
+      "photo": "https://via.placeholder.com/50",
+      "username": "manu",
+      "password": "password",
+      "email": "manu@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Kamaljeet Singh",
+      "photo": "https://via.placeholder.com/50",
+      "username": "admin",
+      "password": "password",
+      "email": "kamaljeet@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Yogesh Nagra",
+      "photo": "https://via.placeholder.com/50",
+      "username": "admin",
+      "password": "password",
+      "email": "Yogesh@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Neha Chauhan",
+      "photo": "https://via.placeholder.com/50",
+      "username": "admin",
+      "password": "password",
+      "email": "Neha@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Hriday Nagra",
+      "photo": "https://via.placeholder.com/50",
+      "username": "admin",
+      "password": "password",
+      "email": "Hriday@gmail.com"
+    }
+  ]
+}
